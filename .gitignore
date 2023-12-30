@@ -1,6 +1,7 @@
 # Dependency directories
 /node_modules
 
+#package-lock and gitignore
 package-lock.json
 
 .gitignore
